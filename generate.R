@@ -29,7 +29,7 @@ usethis::browse_github()
 devtools::install_github("Hc1023/sisiUtils")
 
 library(sisiUtils)
-
+sisiUtils::read_excel_allsheets
 # 后面还要更新就用git或者app
 
 
